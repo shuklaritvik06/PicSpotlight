@@ -1,5 +1,7 @@
 # Picspotlight Mobile Application
 
+![Social-Media-App-Banner](https://github.com/shuklaritvik06/PicSpotlight/assets/72812470/ea66e29c-6c40-4761-850f-86359266ce42)
+
 Picspotlight is a social media mobile application inspired by Instagram. It provides a platform for users to share their visual stories, connect with friends, and discover captivating photos from around the world. This README file serves as a guide to help you understand the features and functionalities of Picspotlight.
 
 ## Key Features
